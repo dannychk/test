@@ -4,7 +4,7 @@ There two giures show the simulated axial ratio (AR) of the proposed Antenna.
 
 .<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot on 0.5G.png" width="1173" height="649" /></div>
 
-.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot on 0.1G.png" width="1173" height="649" /></div>
+.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot on 0.01G.png" width="1173" height="649" /></div>
 
 
 The comparison of different scales are show as following:
