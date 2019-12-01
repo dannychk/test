@@ -2,9 +2,10 @@ Because we set the monitor frequency interval to 0.5GHz during the simulation, s
 
 There two giures show the simulated axial ratio (AR) of the proposed Antenna.
 
-.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot on 0.01G.png" width="1173" height="649" /></div>
+.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot on 0.5G.png" width="1173" height="649" /></div>
 
-https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot%20on%200.01G.png
+.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot on 0.1G.png" width="1173" height="649" /></div>
+
 
 The comparison of different scales are show as following:
-https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/different%20scale%20AR%20comparison.png
+.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/different scale AR comparison.png" width="1173" height="649" /></div>
